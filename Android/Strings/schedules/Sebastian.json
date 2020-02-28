@@ -1,0 +1,29 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "summer_4.000": "โธ่เอ๊ย.. ฉันเกือบลืมไปเลย.  ฉันต้องไปหาคุณหมอฮาร์วี่วันนี้.",
+        "Fri.000": "ฉันควรปล่อยให้แซมชนะซักครั้ง? ...ไม่.$h",
+        "marriage_Fri.001": "ทักษะของฉันไม่ได้ลดลงหรอกนะ... แซมก็ยังง่ายที่จะเอาชนะได้น่ะ.$h",
+        "summer_4.001": "นายมาทำอะไรในนี้เนี่ย?ฉันอาจจะโป๊อยู่ก็ได้นะ!$a", 
+        "marriage_Mon.001": "หน้าของแม่สว่างขึ้นมาเมื่อฉันเดินเข้าไปข้างใน. เธอควรที่จะมีความสุข.$7",
+        "marriage_Fri.000": "ฉันจะออกไปเที่ยวกับเพื่อนเก่าคืนนี้. ฉันจะกลับบ้านทีหลังนะ.",
+        "marriage_Mon.000": "มายืนตรงจุดนี้ทำให้ฉันรู้สึกอยากสูบบุหรี่จริงๆ... แต่ฉันตัดสินใจที่จะเลิกแล้ว.",
+        "rain.000": "มหาสมุทรเป็นที่ๆดีที่สุดที่จะมามีความสุขอยู่คนเดียว... นายก็คิดอย่างนั้นใช่ไหม?",
+        "winter_16.000": "ฉันรู้สึกผ่อนคลายตอนกลางคืน...ฉันอาจจะซื้อเครื่องประดับก็ได้."
+    }
+}
